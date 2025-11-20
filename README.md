@@ -100,12 +100,6 @@ Co‑fondateur, gestion produit, architecture et déploiement.
 
 ---
 
-## 🏆 Trophées
-
-![trophy](https://github-profile-trophy.vercel.app/?username=amineitji\&theme=gitdimmed)
-
----
-
 ## 📌 Contribution Open Source
 
 ### 📎 Cdlib – Community Discovery Library
